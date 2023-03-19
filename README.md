@@ -4,7 +4,7 @@ This repository contains the code for cancer classification using the Functinal 
 
 ## Dataset
 
-The microarray dataset used for this project can be found in the [data repository](https://github.com/jamessaldo/final-task). It contains gene expression data from cancer patients, with each row representing a different patient and each column representing a different gene. The dataset is preprocessed and ready to use for FLNN classification.
+The microarray dataset used for this project can be found in the [data repository](https://github.com/jamessaldo/cancer-microarray-data). It contains gene expression data from cancer patients, with each row representing a different patient and each column representing a different gene. The dataset is preprocessed and ready to use for FLNN classification.
 
 ## Running the Code
 
