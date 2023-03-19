@@ -1,13 +1,11 @@
-            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-                    Version 2, December 2004
+## Cancer Classification with FLNN Algorithm using Microarray Data
 
- Copyright (C) 2012 Romain Lespinasse <romain.lespinasse@gmail.com>
+This repository contains the code for cancer classification using the Functinal Link Neural Network (FLNN) algorithm with microarray data. FLNN is a type of artificial neural network that is used for classification and regression problems. It is a single-layer feedforward neural network that consists of input and output layers, with no hidden layers. The input layer is augmented with additional nodes, which are called functional links, to increase the learning capacity of the network. These functional links are used to introduce nonlinearity into the network, which allows it to model complex relationships between the input and output variables. The FLNN algorithm has been used in various applications, including pattern recognition, image processing, and prediction.
 
- Everyone is permitted to copy and distribute verbatim or modified
- copies of this license document, and changing it is allowed as long
- as the name is changed.
+## Dataset
 
-            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
+The microarray dataset used for this project can be found in the [data repository](https://github.com/jamessaldo/final-task). It contains gene expression data from cancer patients, with each row representing a different patient and each column representing a different gene. The dataset is preprocessed and ready to use for FLNN classification.
 
-  0. You just DO WHAT THE FUCK YOU WANT TO.
+## Running the Code
+
+To run the FLNN algorithm on the microarray dataset, you can open the all the ipynb file in Jupyter Notebook and run the code cell by cell. The output will be the classification results, along with the accuracy of the classification.
